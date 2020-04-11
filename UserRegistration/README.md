@@ -33,7 +33,8 @@ Therefore, this project has this feature disabled, which is the reason why one h
 ### Usage
 
 * To create a new account go to Register Account
-  Enter Name and Email - a confirmation email will be sent
+
+  Enter new user's `Name` and `E-Mail` there - a confirmation email will be sent to the user
   
 ![register](https://raw.githubusercontent.com/brakmic/API-Projects/master/UserRegistration/ClientApp/src/assets/img/register_account.png)
 
@@ -41,7 +42,7 @@ Therefore, this project has this feature disabled, which is the reason why one h
 
 ![confirm](https://raw.githubusercontent.com/brakmic/API-Projects/master/UserRegistration/ClientApp/src/assets/img/confirmation_email.png)
 
-* Confirm registration by entering your new Password (and optionally change the given account name).
+* Confirm registration by entering your new password (and optionally change the given account name).
 
 ![confirm_form](https://raw.githubusercontent.com/brakmic/API-Projects/master/UserRegistration/ClientApp/src/assets/img/confirmation_form.png)
 
